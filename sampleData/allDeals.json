@@ -1,0 +1,23 @@
+{
+	"deals": [{
+		"merchant": "Horchow",
+		"title": "Free Shipping on Orders $100 or More",
+		"link": "http://www.savings.com/m/offer?offerid=9193250"
+	}, {
+		"merchant": "Horchow",
+		"title": "Members Only: 25% off Everything",
+		"link": "http://www.savings.com/m/offer?offerid=5635219"
+	}, {
+		"merchant": "Horchow",
+		"title": "Up to 65% off Sale Items",
+		"link": "http://www.savings.com/m/offer?offerid=9072309"
+	}, {
+		"merchant": "Horchow",
+		"title": "Get a $100 Gift Card for Every 10,000 Points on InCircle Cards",
+		"link": "http://www.savings.com/m/offer?offerid=4477496"
+	}, {
+		"merchant": "Horchow",
+		"title": "Shop for Flatware Under $200",
+		"link": "http://www.savings.com/m/offer?offerid=9059682"
+	}]
+}
